@@ -1,0 +1,29 @@
+[
+  {
+    "id": "item1",
+    "name": "Margherita Pizza",
+    "description": "Fresh tomatoes, mozzarella cheese, basil leaves",
+    "price": 12.99,
+    "imageUrl": "https://example.com/pizza.jpg",
+    "category": "pizza",
+    "available": true
+  },
+  {
+    "id": "item2",
+    "name": "Caesar Salad",
+    "description": "Crisp romaine lettuce, croutons, Caesar dressing",
+    "price": 8.99,
+    "imageUrl": "https://example.com/salad.jpg",
+    "category": "salad",
+    "available": true
+  },
+  {
+    "id": "item3",
+    "name": "Spaghetti Carbonara",
+    "description": "Spaghetti with pancetta, egg, cheese, and pepper",
+    "price": 14.99,
+    "imageUrl": "https://example.com/spaghetti.jpg",
+    "category": "pasta",
+    "available": true
+  }
+]
