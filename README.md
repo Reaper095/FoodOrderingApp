@@ -6,7 +6,6 @@ A modern, feature-rich food ordering mobile app built with **React Native** and 
 
 ## 📱 Screenshots
 
-![UI](https://github.com/username/repo/blob/main/screenshots/image1.jpg?raw=true)
 ![App Screenshot](screenshots/image1.jpg)
 
 - `Image of app showing menu.jpg` – Menu browsing
