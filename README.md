@@ -6,8 +6,8 @@ A modern, feature-rich food ordering mobile app built with **React Native** and 
 
 ## 📱 Screenshots
 
-![UI](https://github.com/username/repo/blob/main/screenshots/Image_of_app_showing_menu.jpg?raw=true)
-![App Screenshot](screenshots/Image_of_app_showing_menu.jpg)
+![UI](https://github.com/username/repo/blob/main/screenshots/image1.jpg?raw=true)
+![App Screenshot](screenshots/image1.jpg)
 
 - `Image of app showing menu.jpg` – Menu browsing
 - `Image of app showing menu (2).jpg` – Food item with add to cart
